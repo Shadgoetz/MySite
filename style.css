@@ -1,0 +1,58 @@
+  body {
+      background-image: url("images/background2.jpg");
+      background-attachment: fixed;
+      color: #66fcf1;
+      text-align: center;
+      font-family: helvetica;
+      margin: 0;
+      font-size: 15px;
+  }
+
+  a:visited {
+      color: #66fcf1;
+      text-decoration: none;
+
+  }
+
+  #social a {
+      color: white;
+  }
+
+  h4 a {
+      color: #66fcf1;
+      text-decoration: none;
+  }
+
+  .header {
+    background-color: #f1f1f1;
+    padding: 30px;
+    text-align: center;
+  }
+  #navbar {
+    overflow: hidden;
+    background-color: #0c1820;
+  }
+  #navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  #navbar a:hover {
+    background-color: #afababdd;
+    color: black;
+  }
+  #navbar a.active {
+    background-color: #0c1820;
+    color: white;
+  }
+
+  .content {
+    padding: 16px;
+  }
+
+
+  
